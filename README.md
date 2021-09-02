@@ -1,7 +1,7 @@
 # <img src="https://rodcordeiro.github.io/shares/img/stormtroopocat.png" width="50" height="50" alt="Logo"/> Darth C0de
 
 <div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/rodcordeiro.png' alt='Member avatar' width='100%' height='10%' style="" loading="lazy"/>
+<img src='https://github.com/rodcordeiro.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
 <h3 style="
 margin: 10px 15px;
 font-size: 16pt;
@@ -11,7 +11,7 @@ font-size: 16pt;
 </div>
 
 <div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/JuniorAlvess.png' alt='Member avatar' width='100%' height='10%' style="" loading="lazy"/>
+<img src='https://github.com/JuniorAlvess.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
 <h3 style="
 margin: 10px 15px;
 font-size: 16pt;
@@ -20,7 +20,7 @@ font-size: 16pt;
 </h3>
 </div>
 <div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/pedrosogui.png' alt='Member avatar' width='100%' height='10%' style="" loading="lazy"/>
+<img src='https://github.com/pedrosogui.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
 <h3 style="
 margin: 10px 15px;
 font-size: 16pt;
@@ -29,7 +29,7 @@ font-size: 16pt;
 </h3>
 </div>
 <div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/Carolina-nico.png' alt='Member avatar' width='100%' height='10%' style="" loading="lazy"/>
+<img src='https://github.com/Carolina-nico.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
 <h3 style="
 margin: 10px 15px;
 font-size: 16pt;
