@@ -1,1 +1,47 @@
-"@{branchPrefix=updates/; packageRules=System.Object[]; assignAutomerge=True; assignees=System.Object[]; labels=System.Object[]; recreateClosed=True; rebaseWhen=conflicted; vulnerabilityAlerts=; extends=System.Object[]; schedule=System.Object[]; timezone=America/Sao_Paulo}"
+{
+    "branchPrefix": "updates/",
+    "packageRules": [
+      {
+        "updateTypes": [
+          "minor",
+          "patch",
+          "pin",
+          "digest"
+        ],
+        "automerge": true
+      },
+      {
+        "updateTypes": [
+          "major"
+        ],
+        "automerge": false
+      }
+    ],
+    "assignAutomerge": true,
+    "assignees": [
+      "rodcordeiro",
+      "JuniorAlvess"
+    ],
+    "labels": [
+      "dependencies"
+    ],
+    "recreateClosed": true,
+    "rebaseWhen": "conflicted",
+    "vulnerabilityAlerts": {
+      "labels": [
+        "security"
+      ],
+      "assignees": [
+        "@rodcordeiro"
+      ]
+    },
+    "extends": [
+      "config:base",
+      ":dependencyDashboard",
+      "github>whitesource/merge-confidence:beta"
+    ],
+  "schedule":  [
+                     "before 3am on the first day of the month"
+                 ],
+    "timezone":  "America/Sao_Paulo"
+  }
