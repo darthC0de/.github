@@ -1,39 +1,45 @@
-# <img src="https://rodcordeiro.github.io/shares/img/stormtroopocat.png" width="50" height="50" alt="Logo"/> Darth C0de
+<img src="../assets/logo.png" alt="DarthC0de"/>
 
-<div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/rodcordeiro.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
-<h3 style="
-margin: 10px 15px;
-font-size: 16pt;
-">
-    RodCordeiro
-</h3>
+# Members
+
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;width:80%;gap: 20px;flex-shrink: 1;">
+<div style='width:200px;height:250px;border-radius:5px;padding:5px 10px;background-color: #333;display:flex;flex-direction:column;justify-content:center;align-items:center;box-shadow: -5px 5px 10px black;'>
+<div style='width:200px;height:201px;padding:5px 10px;background-color: #333;background-image:url("https://github.com/rodcordeiro.png");background-position:center;background-size:contain;background-repeat:no-repeat;'>
 </div>
+  <h3 style='font-family:"Courier New",sans-serif;font-size:20px;line-height:20px;color:white;font-weight:200;margin-top:5px;padding:5px 2px'>
+    Rodrigo Cordeiro
+  </h3>
+  </div>
 
-<div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/JuniorAlvess.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
-<h3 style="
-margin: 10px 15px;
-font-size: 16pt;
-">
+<div style='width:200px;height:250px;border-radius:5px;padding:5px 10px;background-color: #333;display:flex;flex-direction:column;justify-content:center;align-items:center;box-shadow: -5px 5px 10px black;'>
+<div style='width:200px;height:201px;padding:5px 10px;background-color: #333;background-image:url("https://github.com/JuniorAlvess.png");background-position:center;background-size:contain;background-repeat:no-repeat;'>
+</div>
+  <h3 style='font-family:"Courier New",sans-serif;font-size:20px;line-height:20px;color:white;font-weight:200;margin-top:5px;padding:5px 2px'>
     Junior Alves
-</h3>
+  </h3>
+  </div>
+
+<div style='width:200px;height:250px;border-radius:5px;padding:5px 10px;background-color: #333;display:flex;flex-direction:column;justify-content:center;align-items:center;box-shadow: -5px 5px 10px black;'>
+<div style='width:200px;height:201px;padding:5px 10px;background-color: #333;background-image:url("https://github.com/oguipedroso.png");background-position:center;background-size:contain;background-repeat:no-repeat;'>
 </div>
-<div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/pedrosogui.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
-<h3 style="
-margin: 10px 15px;
-font-size: 16pt;
-">
+  <h3 style='font-family:"Courier New",sans-serif;font-size:20px;line-height:20px;color:white;font-weight:200;margin-top:5px;padding:5px 2px'>
     Guilherme Pedroso
-</h3>
+  </h3>
+  </div>
+
+<div style='width:200px;height:250px;border-radius:5px;padding:5px 10px;background-color: #333;display:flex;flex-direction:column;justify-content:center;align-items:center;box-shadow: -5px 5px 10px black;'>
+<div style='width:200px;height:201px;padding:5px 10px;background-color: #333;background-image:url("https://github.com/GabrielBizzi.png");background-position:center;background-size:contain;background-repeat:no-repeat;'>
 </div>
-<div style="width:60%;max-width:250px;min-width:150px;background: #181818;border-radius:5px;margin: 10px 20px;">
-<img src='https://github.com/Carolina-nico.png' alt='Member avatar' width='250px' height='auto' style="" loading="lazy"/>
-<h3 style="
-margin: 10px 15px;
-font-size: 16pt;
-">
+  <h3 style='font-family:"Courier New",sans-serif;font-size:20px;line-height:20px;color:white;font-weight:200;margin-top:5px;padding:5px 2px'>
+   Gabriel A. Bizzi
+  </h3>
+  </div>
+  
+<div style='width:200px;height:250px;border-radius:5px;padding:5px 10px;background-color: #333;display:flex;flex-direction:column;justify-content:center;align-items:center;box-shadow: -5px 5px 10px black;'>
+<div style='width:200px;height:201px;padding:5px 10px;background-color: #333;background-image:url("https://github.com/Carolina-nico.png");background-position:center;background-size:contain;background-repeat:no-repeat;'>
+</div>
+  <h3 style='font-family:"Courier New",sans-serif;font-size:20px;line-height:20px;color:white;font-weight:200;margin-top:5px;padding:5px 2px'>
     Carolina Santos
-</h3>
+  </h3>
+  </div>
 </div>
