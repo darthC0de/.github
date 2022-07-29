@@ -1,4 +1,4 @@
-<img src="../assets/logo.png" alt="DarthC0de"/>
+<img src="https://raw.githubusercontent.com/darthC0de/.github/main/assets/logo.png" alt="DarthC0de"/>
 
 # Members
 
